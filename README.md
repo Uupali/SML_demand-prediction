@@ -1,6 +1,6 @@
-## Do We Need More Bikes?
+Do We Need More Bikes?
 
-*Statistical Machine Learning Project*  
+*Statistical Machine Learning group project*  
 Predicting when to increase bike stock for Capital Bikeshare in Washington D.C.
 
 ### Overview
